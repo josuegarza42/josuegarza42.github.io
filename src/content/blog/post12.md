@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Elaina"
 description: "Participation in the prestigious Mitacs Globalink Research Internship, contributing to the development of Elaina, an AI-enhanced e-learning platform. This project showcases skills in project management, agile methodologies, and user interface design."
-pubDate: 2023-01-21
+pubDate: 2023-09-02
 category: "intro"
 ---
 

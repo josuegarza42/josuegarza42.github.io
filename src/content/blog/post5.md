@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Room Reserve"
 description: "Room Reserve, an innovative application that connects travelers with their next destinations and offers rewards for sharing their hotel choice. This project showcases skills in project management and application development using Flutter."
-pubDate: 2023-01-21
+pubDate: 2023-05-02
 category: "intro"
 ---
 

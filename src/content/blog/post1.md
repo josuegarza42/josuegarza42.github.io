@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Servismedicamp"
 description: "Servismedicamp is an innovative application designed to provide specialized health services to the migrant community and their relatives in the country. This project is characterized by its agile and strategic approach to project management and technological development."
-pubDate: 2023-01-21
+pubDate: 2022-11-02
 category: "intro"
 ---
 

@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "EWAP"
 description: "EWAP, a unique platform designed for psychologists to self-manage their websites effectively, enhancing exposure and client retention. A project that highlights skills in project management, front-end, and web development."
-pubDate: 2023-01-21
+pubDate: 2023-05-06
 category: "intro"
 ---
 

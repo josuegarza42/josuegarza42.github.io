@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Depsthink"
 description: "Depsthink, a pioneering app bridging the gap between patients and psychologists in Mexico, offering safe information and potential AI-based preliminary diagnosis. This project displays skills in project management and various technical competencies."
-pubDate: 2023-01-21
+pubDate: 2021-10-29
 category: "intro"
 ---
 

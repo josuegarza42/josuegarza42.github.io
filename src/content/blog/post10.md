@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Edufree"
 description: "Edufree, a project developed for the Talentland 2022 Hackathon, aims to connect students to free professional education. This initiative, highlighting skills in project management and web development, seeks to bridge the educational gap and empower learners."
-pubDate: 2023-01-21
+pubDate: 2022-07-15
 category: "intro"
 ---
 

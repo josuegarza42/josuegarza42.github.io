@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Healthy Hive"
 description: "Healthy Hive, a social network focused on health and wellness, offering personalized nutrition and exercise recommendations. This project demonstrates expertise in project management and front-end development, contributing to a health-conscious community."
-pubDate: 2023-01-21
+pubDate: 2023-04-21
 category: "intro"
 ---
 

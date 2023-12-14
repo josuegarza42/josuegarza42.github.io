@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Firedots"
 description: "Firedots is a real-time alert system and educational platform for fire-related incidents. It serves as a crucial tool for fire awareness, prevention, and emergency response, offering both local and global insights into fire events."
-pubDate: 2023-01-21
+pubDate: 2023-10-14
 category: "intro"
 ---
 

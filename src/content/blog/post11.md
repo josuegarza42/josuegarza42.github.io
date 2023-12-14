@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "MotivacionSecu"
 description: "MotivacionSecu, a project dedicated to inspiring high school students to continue their studies. Developed for a secondary school teacher, this platform combines motivational tools with a comprehensive database for survey analysis."
-pubDate: 2023-01-21
+pubDate: 2022-03-15
 category: "intro"
 ---
 

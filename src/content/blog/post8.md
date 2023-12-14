@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Pocket U"
 description: "Pocket U, an innovative approach to presenting scientific information in an accessible, fanzine-style format. This project highlights skills in project management and front-end development, making science and technology more approachable."
-pubDate: 2023-01-21
+pubDate: 2022-10-21
 category: "intro"
 ---
 

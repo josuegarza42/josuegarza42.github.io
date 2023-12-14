@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Alowes Marketing Solutions"
 description: "Experience at Alowes Marketing Solutions, focusing on uniting technology, ideas, and people to foster growth and inspire collaboration. A journey marked by the pursuit of excellence and the creation of meaningful relationships and shared success."
-pubDate: 2023-01-21
+pubDate: 2023-08-04
 category: "intro"
 ---
 

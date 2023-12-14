@@ -2,7 +2,7 @@
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Valofast"
 description: "Valofast, a project created for the BBVA 2022 Hackathon, focuses on providing fast, straightforward, and accurate real estate valuations. Showcasing skills in project management, the project aims to revolutionize the property valuation process."
-pubDate: 2023-01-21
+pubDate: 2022-10-29
 category: "intro"
 ---
 
