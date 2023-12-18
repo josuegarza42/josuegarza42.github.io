@@ -1,6 +1,7 @@
-# ⚡️astro-bento-portfolio
+# ⚡️Astro-portfolio
 
 ## A personal portfolio website made using `Astro`.
+![image](https://github.com/josuegarza42/josuegarza42.github.io/assets/44554474/cc94c4ec-f936-4f2b-bde3-cfc681259919)
 
 
 ## Features
@@ -23,12 +24,12 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Ladvace/astro-bento-portfolio
+$ git clone https://github.com/josuegarza42/josuegarza42.github.io.git
 ```
 
 ```bash
 # Go into the repository
-$ cd astro-bento-grid-portfolio
+$ cd josuegarza42.github.io
 ```
 
 ```bash
@@ -47,10 +48,8 @@ Deploying your website on Netlify it's optional but I reccomand it in order to d
 
 You just need to fork this repo and linking it to your Netlify account.
 
-or
-
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ladvace/astro-bento-portfolio)
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com)
 
 ## Authors ❤️
-
+- Josue Garza - https://github.com/josuegarza42
 - Gianmarco - https://github.com/Ladvace
