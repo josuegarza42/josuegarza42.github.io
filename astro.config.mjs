@@ -9,13 +9,13 @@ import { remarkReadingTime } from "./src/lib/ remark-reading-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://main--ornate-vacherin-203e74.netlify.app/",
+  site: "https://josuegarza.dev/",
   integrations: [
     sitemap(),
     robotsTxt({
       sitemap: [
-        "https://main--ornate-vacherin-203e74.netlify.app/sitemap-index.xml",
-        "https://main--ornate-vacherin-203e74.netlify.app/sitemap-0.xml",
+        "https://josuegarza.dev/sitemap-index.xml",
+        "https://josuegarza.dev/sitemap-0.xml",
       ],
     }),
     solidJs(),
