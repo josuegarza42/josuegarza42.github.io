@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Research Internship at Simon Fraser University"
+title: "Research Internship at SFU"
 description: "Participation in the prestigious Mitacs Globalink Research Internship, contributing to the development of Elaina, an AI-enhanced e-learning platform. This project showcases skills in project management, agile methodologies, and user interface design."
 pubDate: 2023-09-01
 category: "intro"

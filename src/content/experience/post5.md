@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Software Developer Internship at Daikin Applied Americas"
+title: "Software Developer at Daikin"
 description: "Experience as a Software Developer Intern at Daikin Applied Americas, focusing on database management and documentation. Skills in Microsoft SQL Server, Scrum, T-SQL, Git, and SQL were developed during the internship."
 pubDate: 2022-07-12
 category: "intro"

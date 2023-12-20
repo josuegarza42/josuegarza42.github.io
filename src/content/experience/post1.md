@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Project Manager / Web Developer at Softdone"
+title: "PM & Web Developer at Softdone"
 description: "Experience as a Project Manager at Softdone, showcasing expertise in Agile methodologies and advanced project management tools. This role involves developing budgets, managing projects through their lifecycle, and collaborating with stakeholders to meet expectations."
 pubDate: 2023-12-19
 category: "intro"
