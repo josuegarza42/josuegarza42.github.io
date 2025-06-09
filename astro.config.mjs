@@ -4,6 +4,7 @@ import netlify from "@astrojs/netlify/functions";
 import robotsTxt from "astro-robots-txt";
 import UnoCSS from "@unocss/astro";
 
+
 import solidJs from "@astrojs/solid-js";
 import { remarkReadingTime } from "./src/lib/ remark-reading-time.mjs";
 
@@ -25,5 +26,9 @@ export default defineConfig({
     remarkPlugins: [remarkReadingTime],
   },
   output: "server",
-  adapter: netlify(),
+  adapter: netlify({
+
+    functionName: 'astro-ssr-adapter'
+  })
+  
 });
